@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\Umfg.Prg4.Lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\Umfg.Prg4.Lista1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\Umfg.Prg4.Lista1.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\Umfg.Prg4.Lista1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\bin\Debug\net8.0\Umfg.Prg4.Lista1.exe
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\bin\Debug\net8.0\Umfg.Prg4.Lista1.deps.json
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\bin\Debug\net8.0\Umfg.Prg4.Lista1.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\bin\Debug\net8.0\Umfg.Prg4.Lista1.dll
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\bin\Debug\net8.0\Umfg.Prg4.Lista1.pdb
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\Umfg.Prg4.Lista1.dll
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\refint\Umfg.Prg4.Lista1.dll
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\Umfg.Prg4.Lista1.pdb
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\Umfg.Prg4.Lista1.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\Umfg.Prg4.Lista1\Umfg.Prg4.Lista1\obj\Debug\net8.0\ref\Umfg.Prg4.Lista1.dll
